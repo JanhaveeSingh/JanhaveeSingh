@@ -2,7 +2,6 @@
 
 **AI/ML Intern | Computer Science @ NTU Singapore | Tech for Impact | Hackathon Enthusiast**
 
-📍 Singapore | 📞 +65 9196 5377 | ✉️ janhavee001@e.ntu.edu.sg  
 🔗 [LinkedIn](https://www.linkedin.com/in/janhavee-singh-8649a9287/) 
 🎓 B.Eng. Computer Science (Honours – Distinction Expected), Minor in Business  
 🧠 Passionate about AI, Graph Databases, and Real-World Problem Solving
