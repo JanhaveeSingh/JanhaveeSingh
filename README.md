@@ -28,14 +28,6 @@
 
 ---
 
-## 💡 Contributions
-
-### 🤝 Open Source @ NTU
-- Built a **Retirement Planning App** using real-world data + ML predictions  
-- Integrated React-based frontend for user interaction
-
----
-
 ## 🧠 Soft Skills & Certifications
 
 - **Leadership:** Club Secretary, Hackathon team lead, SCDS Group Leader  
